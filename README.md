@@ -7,4 +7,4 @@ Read more about [Vue Dashboard Light Blue Admin](https://admin-dashboards.com/vu
 ![Vue Dashboard Light Blue Admin - Gif animated Intro.](https://github.com/app-generator/static/blob/master/admin-dashboards/vue-dashboard-light-blue-admin-intro.gif?raw=true)
 
 ---
-Index provided by [Admin Dashboards](https://admin-dashboards.com)
+Provided by [Admin Dashboards](https://admin-dashboards.com)
